@@ -1,0 +1,28 @@
+/********************** HEADER **********************/
+header {
+	background-color: rgb(12, 12, 12);
+	width: 100%;
+	padding: 0.6% 2%;
+    .nav-item a {
+        color: white;
+    }
+}
+.logo {
+	width: 7%;
+	img {
+		width: 100%;
+		cursor: pointer;
+	}
+}
+.nav-link {
+    &:focus,
+    &:hover {
+        color: rgb(205, 203, 203);
+		font-weight: bold;
+    }
+}
+header li {
+    display: inline;
+    padding-left: 25px;
+	font-size: 1.2rem;
+}

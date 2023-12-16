@@ -1,0 +1,72 @@
+/********************** MOBILE **********************/
+
+@media (max-width: 375px) {
+	.linksFooter {
+		width: 20%;
+	}
+	.imageIndex1 {
+		img {
+			height: 80vh;
+		}
+	}
+	.textImageIndex1 {
+		h1 {
+			font-size: 3.2rem;
+		}
+	}
+	.footerTopIndex {
+		margin-top: 70%;
+	}
+	.sectionProjects1 {
+		h1 {
+			font-size: 3.2rem;
+		}
+	}
+	.footerTopProjects {
+		margin-top: 30%;
+	}
+	.sectionAbout1 {
+		img {
+			height: 75vh;
+		}
+	}
+	.textSectionAbout1 {
+		h1 {
+			font-size: 3.2rem;
+		}
+	}
+	.about2Img {
+		margin-top: 8%;
+	}
+	.about3Container1 {
+		h2 {
+			margin-top: 50%;
+		}
+	}
+	.textSectionNews1 {
+		h1 {
+			font-size: 3.2rem;
+		}
+	}
+	.sectionNews2 {
+		margin-bottom: 20%;
+	}
+	.imgNews2 {
+		margin-top: 7%;
+		margin-bottom: 10%;
+	}
+	.imgNews3 {
+		margin-top: 10%;
+	}
+	.imgNews4 {
+		margin-top: 12%;
+	}
+	.contactContainer {
+		h1 {
+			font-size: 3.2rem;
+		}
+		p {
+			width: auto;
+		}
+	}
+}

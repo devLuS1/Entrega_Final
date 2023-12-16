@@ -1,0 +1,103 @@
+/********************** MOBILE **********************/
+
+@media (max-width: 320px) {
+	.imageIndex1 {
+		height: 90vh;
+	}
+	.textImageIndex1 {
+		h1 {
+			font-size: 3rem;
+		}
+		p {
+			font-size: 1.1rem;
+			width: 80%;
+		}
+	}
+	.index2text2 {
+		img {
+			height: 40vh;
+		}
+		p {
+			padding: 10% 0%;
+		}
+	}
+	.index3Text {
+		padding: 22% 2% 4% 2%;
+		p {
+			margin: 3% 0% 5% 0%;
+		}
+	}
+	.footerTopIndex {
+		margin-top: 80%;
+	}
+	.linksFooter {
+		margin-left: 0%;
+		width: 0.2%;
+		gap: 25%;
+	}
+	.sectionProjects1 {
+		h1 {
+			font-size: 3rem;
+		}
+	}
+	.footerTopProjects {
+		margin-top: 25%;
+	}
+	.sectionAbout1 {
+		img {
+			height: 90vh;
+		}
+	}
+	.textSectionAbout1 {
+		h1 {
+			font-size: 3rem;
+		}
+	}
+	.about2Img {
+		margin-top: 20%;
+	}
+	.about3Container1 {
+		h2 {
+			margin-top: 70%;
+		}
+	}
+	.sectionNews1 {
+		img {
+			height: 90vh;
+		}
+		h1 {
+			font-size: 3rem;
+		}
+	}
+	.imgNews2 {
+		margin-top: 28%;
+	}
+	.imgNews3 {
+		margin-top: 12%;
+	}
+	.imgNews4 {
+		margin-top: 35%;
+	}
+	.footerTopNews {
+		margin-top: 40%;
+	}
+	.contactContainer {
+		h1 {
+			font-size: 3rem;
+		}
+	}
+	.sectionContact {
+		img {
+			margin-top: 50%;
+		}
+	}
+	.imgContact3 {
+		margin-top: 15%;
+	}
+	.contactUsContainer {
+		margin-top: 15%;
+	}
+	.footerTopContact {
+		margin-top: 35%;
+	}
+}
